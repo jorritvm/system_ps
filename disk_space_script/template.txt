@@ -1,0 +1,6 @@
+<p>Hi, </p>
+
+<p>
+Please find the size of the folders on +SERVER_NAME+ below: <br/><br/>
++FOLDER_SIZE_BLOCK+
+</p>
